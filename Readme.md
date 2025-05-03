@@ -1,7 +1,7 @@
 
 ---
 
-## 📘 README.md (for the `python projects` folder repo)
+##📘 README.md 
 
 ````markdown
 # 🧠 Python Mini Projects Collection
